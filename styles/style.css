@@ -1,0 +1,27 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    margin-top: 10%;
+}
+.fa-regular{
+    color: black;
+    background-color: lightgray;
+    border-radius: 50%;
+}
+.plan-info{
+    margin-left: 10px;
+}
+.hot{
+    margin-left: 850px;
+    
+
+}
+.zindex{
+    z-index: -1;
+}
+.review-margin{
+    margin-right: 10px;
+}
